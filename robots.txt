@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ahataasu.github.io/AqM/sitemap_index.txt
+Sitemap: https://ahataasu.github.io/DOL/sitemap_index.txt
+Sitemap: https://ahataasu.github.io/RmI/sitemap_index.txt
+Sitemap: https://ahataasu.github.io/ZAJ/sitemap_index.txt
